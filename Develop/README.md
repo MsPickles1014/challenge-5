@@ -1,10 +1,10 @@
 
   ## Title
-  # My Sample ReadMe Generator
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) <!-- Add the license badge -->
+  # qewe
+  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg) <!-- Add the license badge -->
 
   ## Description
-  This is a sample project
+  ertert
   
   ## Table of Contents
   - [Description](#description)
@@ -16,24 +16,24 @@
   - [Questions](#questions)
   
   ## Installation
-  Run `npm install` to install dependencies
+  wre
   
   ## Usage
-  Run Intergrated terminal 
+  er
   
   ## License
   
-    https://opensource.org/licenses/MIT
+    https://www.apache.org/licenses/LICENSE-2.0
     
   
   ## Contributing
-  feel free to fork and submit request
+  wre
   
   ## Tests
-  run npm test
+  er
   
   ## Questions
   For any questions, feel free to contact me:
-  - GitHub: [mspickles1014](https://github.com/mspickles1014)
-  - Email: [mspickles@sampleemail.com](mailto:mspickles@sampleemail.com)
+  - GitHub: [werw](https://github.com/werw)
+  - Email: [wer](mailto:wer)
       
