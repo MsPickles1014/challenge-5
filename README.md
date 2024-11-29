@@ -22,19 +22,19 @@ To install and use the application, follow these steps:
 * Clone the repository:
   
  	 * git clone https://github.com/your-username/readme-generator.git
-2. Navigate to the project directory:
-** cd readme-generator
-3. Install dependencies:
-** npm install
-** Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
+* Navigate to the project directory:
+	 * cd readme-generator
+* Install dependencies:
+  	 * npm install
+	 * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
 ## Usage
 To run the application, follow these steps:
 
-1. open Intergrated terminal
-** node index.js
-2. Follow the prompts to input details about your project.
-3. The generated README.md file will be saved in the current directory.
+* open Intergrated terminal
+	 * node index.js
+* Follow the prompts to input details about your project.
+* The generated README.md file will be saved in the current directory.
 
 ## Features
 * User-friendly CLI prompts for easy input.
@@ -48,14 +48,14 @@ This project is not licensed.
 ## Contributing
 Contributions are welcome! To contribute:
 
-1. Fork the repository.
-2. Create a new branch for your feature
-** git checkout -b feature/name
-3. Commit your changes:
-** git commit -m "Add feature"
-4. Push to your branch:
-** git push origin feature-name
-5. Submit a Pull Request.
+* Fork the repository.
+* Create a new branch for your feature
+	* git checkout -b feature/name
+* Commit your changes:
+	*git commit -m "Add feature"
+* Push to your branch:
+	*git push origin feature-name
+* Submit a Pull Request.
 
 ## Tests
 To run the tests for this application:
