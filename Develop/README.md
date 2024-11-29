@@ -1,10 +1,10 @@
 
   ## Title
-  # qewe
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg) <!-- Add the license badge -->
+  # Challenge-5: Professional README Generator
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) <!-- Add the license badge -->
 
   ## Description
-  ertert
+  The README Generator is a powerful Command Line Interface (CLI) tool.designed to streamline the creation of professional and structured README.md files for your projects. By providing simple prompts, developers can create a polished README that includes licensing, installation instructions, usage guidelines, and more. This easy-to-use tool creates a README file by using a command-line application to generate one; enabling the project creator to devote more time to working on the project.
   
   ## Table of Contents
   - [Description](#description)
@@ -16,24 +16,24 @@
   - [Questions](#questions)
   
   ## Installation
-  wre
+  To install and use the application, follow these steps:
   
   ## Usage
-  er
+  Navigate to the project directory:
   
   ## License
   
-    https://www.apache.org/licenses/LICENSE-2.0
+    https://opensource.org/licenses/MIT
     
   
   ## Contributing
-  wre
+  Uses the Inquirer package.
   
   ## Tests
-  er
+  To run the tests for this application in the intergrated terminal
   
   ## Questions
   For any questions, feel free to contact me:
-  - GitHub: [werw](https://github.com/werw)
-  - Email: [wer](mailto:wer)
+  - GitHub: [mspickles1014](https://github.com/mspickles1014)
+  - Email: [mspickles1014@github.com](mailto:mspickles1014@github.com)
       
