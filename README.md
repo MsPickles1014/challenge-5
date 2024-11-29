@@ -19,7 +19,7 @@ Questions
 ## Installation
 To install and use the application, follow these steps:
 
-1. Clone the repository:
+* Clone the repository:
 ** git clone https://github.com/your-username/readme-generator.git
 2. Navigate to the project directory:
 ** cd readme-generator
