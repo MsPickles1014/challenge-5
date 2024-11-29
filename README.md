@@ -63,7 +63,6 @@ To run the tests for this application:
 
 * Ensure all tests pass before submitting new contributions.
 
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
 ## Questions
 For questions or feedback, feel free to reach out:
