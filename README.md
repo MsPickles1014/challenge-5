@@ -52,9 +52,9 @@ Contributions are welcome! To contribute:
 * Create a new branch for your feature
 	* git checkout -b feature/name
 * Commit your changes:
-	*git commit -m "Add feature"
+	* git commit -m "Add feature"
 * Push to your branch:
-	*git push origin feature-name
+	* git push origin feature-name
 * Submit a Pull Request.
 
 ## Tests
