@@ -36,6 +36,10 @@ To run the application, follow these steps:
 * Follow the prompts to input details about your project.
 * The generated README.md file will be saved in the current directory.
 
+## Walkthrough Video
+To see how this application runs, click the following link:
+* https://github.com/MsPickles1014/challenge-5/blob/main/Develop/video/Challange-5%20videoDemo-1.mp4
+
 ## Features
 * User-friendly CLI prompts for easy input.
 * Automatically adds badges for licensing.
